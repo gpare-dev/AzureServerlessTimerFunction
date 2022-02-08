@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureTimerFunction", "..\AzureTimerFunction\AzureTimerFunction.csproj", "{2BF887B5-82A9-404E-8175-18721ED3D7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BF887B5-82A9-404E-8175-18721ED3D7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF887B5-82A9-404E-8175-18721ED3D7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF887B5-82A9-404E-8175-18721ED3D7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF887B5-82A9-404E-8175-18721ED3D7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B120C9C5-9DCE-4C48-A7A8-CD98054EAD5A}
+	EndGlobalSection
+EndGlobal
