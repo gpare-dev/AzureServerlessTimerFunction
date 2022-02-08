@@ -6,4 +6,7 @@ This function runs each weekday at 4pm (at US market close) and sends a SMS with
 
 ![Azure timer function dashboard](azure-timer-function.PNG)
 
+
+Result:
+
 ![Azure timer function result](azure-timer-function-result.PNG)
